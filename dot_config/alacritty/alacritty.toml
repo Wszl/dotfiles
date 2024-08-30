@@ -27,3 +27,5 @@ dimensions = { columns = 80, lines = 30 }
 
 [cursor]
 style = { shape = "Underline", blinking = "Off"}
+unfocused_hollow = false
+thickness = 0.55
